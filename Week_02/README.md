@@ -1,8 +1,8 @@
 # 学习笔记
 
 ### 哈希表（Hash table）
-映射（map）：key->value
-集合（set）：不重复元素的集合
+- 映射（map）：key->value
+- 集合（set）：不重复元素的集合
 ### 树（Tree）
 树是二维数组结构
 - 遍历：
